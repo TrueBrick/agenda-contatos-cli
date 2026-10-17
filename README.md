@@ -127,8 +127,7 @@ Mais detalhes sobre estrutura, fluxo e decisões em [ARQUITETURA.md](ARQUITETURA
 
 ## 👤 Autor
 
-**Rodrigo Oliveira**
-Em transição de carreira para Engenharia de Software · FIAP
+**Rodrigo Oliveira** - Engenheiro de Software · FIAP
 
 [![GitHub](https://img.shields.io/badge/GitHub-TrueBrick-181717?style=flat-square&logo=github)](https://github.com/TrueBrick)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rodrigo%20Oliveira-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rodrigo-oliveira-a923b8412/)
